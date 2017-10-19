@@ -1,0 +1,132 @@
+78:033  9:064  Found BIOS RSDP at F0000
+78:033  0:000  Printing ACPI tables from RSDP F0000 ...
+78:033  0:000   F0000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+78:033  0:000    (Xsdt: C9194090, Rsdt: C9194028)
+78:033  0:000    C9194090: 'XSDT', 'Notebook', Rev: 1, Len: 156
+78:033  0:000    C9194028: 'RSDT', 'Notebook', Rev: 1, Len: 96
+78:033  0:000    Tables in Xsdt: 15
+78:033  0:000    0. C91A42E8: 'FACP', 'Notebook', Rev: 5, Len: 268
+78:033  0:000        (Dsdt: C91941C8, Facs: C97FD080, XDsdt: C91941C8, XFacs: 0)
+78:033  0:000        C91941C8: 'DSDT', 'Notebook', Rev: 2, Len: 65817
+78:034  0:000        C97FD080: 'FACS', Ver: 2, Len: 64
+78:034  0:000    1. C91A43F8: 'APIC', 'Notebook', Rev: 3, Len: 146
+78:034  0:000    2. C91A4490: 'FPDT', 'Notebook', Rev: 1, Len: 68
+78:034  0:000    3. C91A44D8: 'LPIT', 'Notebook', Rev: 1, Len: 92
+78:034  0:000    4. C91A4538: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+78:034  0:000    5. C91A4760: 'SSDT', 'zpodd', Rev: 1, Len: 399
+78:034  0:000    6. C91A48F0: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+78:034  0:000    7. C91A4E30: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+78:034  0:000    8. C91A5908: 'MCFG', 'Notebook', Rev: 1, Len: 60
+78:034  0:000    9. C91A5948: 'HPET', 'Notebook', Rev: 1, Len: 56
+78:034  0:000    10. C91A5980: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+78:034  0:000    11. C91A5C98: 'SSDT', 'SaSsdt ', Rev: 1, Len: 14108
+78:034  0:000    12. C91A93B8: 'SSDT', 'SgPeg', Rev: 1, Len: 5218
+78:034  0:000    13. C91AA820: 'DMAR', 'HSW ', Rev: 1, Len: 184
+78:034  0:000    14. C91AA8D8: 'SSDT', 'OptTabl', Rev: 1, Len: 6297
+78:034  0:000    Tables in Rsdt: 15
+78:034  0:000    0. C9194140: 'FACP', 'Notebook', Rev: 2, Len: 132
+78:034  0:000        (Dsdt: C91941C8, Facs: C97FD040)
+78:034  0:000        C91941C8: 'DSDT', 'Notebook', Rev: 2, Len: 65817
+78:035  0:000        C97FD040: 'FACS', Ver: 0, Len: 64
+78:035  0:000    1. C91A43F8: 'APIC', 'Notebook', Rev: 3, Len: 146
+78:035  0:000    2. C91A4490: 'FPDT', 'Notebook', Rev: 1, Len: 68
+78:035  0:000    3. C91A44D8: 'LPIT', 'Notebook', Rev: 1, Len: 92
+78:035  0:000    4. C91A4538: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+78:035  0:000    5. C91A4760: 'SSDT', 'zpodd', Rev: 1, Len: 399
+78:035  0:000    6. C91A48F0: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+78:035  0:000    7. C91A4E30: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+78:035  0:000    8. C91A5908: 'MCFG', 'Notebook', Rev: 1, Len: 60
+78:035  0:000    9. C91A5948: 'HPET', 'Notebook', Rev: 1, Len: 56
+78:035  0:000    10. C91A5980: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+78:035  0:000    11. C91A5C98: 'SSDT', 'SaSsdt ', Rev: 1, Len: 14108
+78:035  0:000    12. C91A93B8: 'SSDT', 'SgPeg', Rev: 1, Len: 5218
+78:035  0:000    13. C91AA820: 'DMAR', 'HSW ', Rev: 1, Len: 184
+78:035  0:000    14. C91AA8D8: 'SSDT', 'OptTabl', Rev: 1, Len: 6297
+78:035  0:000  Found UEFI Acpi 2.0 RSDP at C9194000
+78:035  0:000  Saving ACPI tables from RSDP C9194000 to EFI\CLOVER\ACPI\origin ...
+78:035  0:000   C9194000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+78:035  0:000    (Xsdt: C9194090, Rsdt: C9194028)
+78:035  0:000    C9194090: 'XSDT', 'Notebook', Rev: 1, Len: 156
+78:035  0:000    C9194028: 'RSDT', 'Notebook', Rev: 1, Len: 96
+78:035  0:000    Tables in Xsdt: 15
+78:035  0:000    0. C91A42E8: 'FACP', 'Notebook', Rev: 5, Len: 268
+78:035  0:000        (Dsdt: C91941C8, Facs: C97FD080, XDsdt: C91941C8, XFacs: 0)
+78:035  0:000        C91941C8: 'DSDT', 'Notebook', Rev: 2, Len: 65817
+78:036  0:000        C97FD080: 'FACS', Ver: 2, Len: 64
+78:036  0:000    1. C91A43F8: 'APIC', 'Notebook', Rev: 3, Len: 146
+78:036  0:000    2. C91A4490: 'FPDT', 'Notebook', Rev: 1, Len: 68
+78:036  0:000    3. C91A44D8: 'LPIT', 'Notebook', Rev: 1, Len: 92
+78:036  0:000    4. C91A4538: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+78:036  0:000    5. C91A4760: 'SSDT', 'zpodd', Rev: 1, Len: 399
+78:036  0:000    6. C91A48F0: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+78:036  0:000    7. C91A4E30: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+78:036  0:000    8. C91A5908: 'MCFG', 'Notebook', Rev: 1, Len: 60
+78:036  0:000    9. C91A5948: 'HPET', 'Notebook', Rev: 1, Len: 56
+78:036  0:000    10. C91A5980: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+78:036  0:000    11. C91A5C98: 'SSDT', 'SaSsdt ', Rev: 1, Len: 14108
+78:036  0:000    12. C91A93B8: 'SSDT', 'SgPeg', Rev: 1, Len: 5218
+78:036  0:000    13. C91AA820: 'DMAR', 'HSW ', Rev: 1, Len: 184
+78:036  0:000    14. C91AA8D8: 'SSDT', 'OptTabl', Rev: 1, Len: 6297
+78:036  0:000    Tables in Rsdt: 15
+78:036  0:000    0. C9194140: 'FACP', 'Notebook', Rev: 2, Len: 132
+78:036  0:000        (Dsdt: C91941C8, Facs: C97FD040)
+78:036  0:000        C91941C8: 'DSDT', 'Notebook', Rev: 2, Len: 65817
+78:037  0:000        C97FD040: 'FACS', Ver: 0, Len: 64
+78:037  0:000    1. C91A43F8: 'APIC', 'Notebook', Rev: 3, Len: 146
+78:037  0:000    2. C91A4490: 'FPDT', 'Notebook', Rev: 1, Len: 68
+78:037  0:000    3. C91A44D8: 'LPIT', 'Notebook', Rev: 1, Len: 92
+78:037  0:000    4. C91A4538: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+78:037  0:000    5. C91A4760: 'SSDT', 'zpodd', Rev: 1, Len: 399
+78:037  0:000    6. C91A48F0: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+78:037  0:000    7. C91A4E30: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+78:037  0:000    8. C91A5908: 'MCFG', 'Notebook', Rev: 1, Len: 60
+78:037  0:000    9. C91A5948: 'HPET', 'Notebook', Rev: 1, Len: 56
+78:037  0:000    10. C91A5980: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+78:037  0:000    11. C91A5C98: 'SSDT', 'SaSsdt ', Rev: 1, Len: 14108
+78:037  0:000    12. C91A93B8: 'SSDT', 'SgPeg', Rev: 1, Len: 5218
+78:037  0:000    13. C91AA820: 'DMAR', 'HSW ', Rev: 1, Len: 184
+78:037  0:000    14. C91AA8D8: 'SSDT', 'OptTabl', Rev: 1, Len: 6297
+78:037  0:000  Found UEFI Acpi 1.0 RSDP at C9194000
+78:037  0:000  Printing ACPI tables from RSDP C9194000 ...
+78:037  0:000   C9194000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+78:037  0:000    (Xsdt: C9194090, Rsdt: C9194028)
+78:037  0:000    C9194090: 'XSDT', 'Notebook', Rev: 1, Len: 156
+78:037  0:000    C9194028: 'RSDT', 'Notebook', Rev: 1, Len: 96
+78:037  0:000    Tables in Xsdt: 15
+78:037  0:000    0. C91A42E8: 'FACP', 'Notebook', Rev: 5, Len: 268
+78:037  0:000        (Dsdt: C91941C8, Facs: C97FD080, XDsdt: C91941C8, XFacs: 0)
+78:037  0:000        C91941C8: 'DSDT', 'Notebook', Rev: 2, Len: 65817
+78:038  0:000        C97FD080: 'FACS', Ver: 2, Len: 64
+78:038  0:000    1. C91A43F8: 'APIC', 'Notebook', Rev: 3, Len: 146
+78:038  0:000    2. C91A4490: 'FPDT', 'Notebook', Rev: 1, Len: 68
+78:038  0:000    3. C91A44D8: 'LPIT', 'Notebook', Rev: 1, Len: 92
+78:038  0:000    4. C91A4538: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+78:038  0:000    5. C91A4760: 'SSDT', 'zpodd', Rev: 1, Len: 399
+78:038  0:000    6. C91A48F0: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+78:038  0:000    7. C91A4E30: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+78:038  0:000    8. C91A5908: 'MCFG', 'Notebook', Rev: 1, Len: 60
+78:038  0:000    9. C91A5948: 'HPET', 'Notebook', Rev: 1, Len: 56
+78:038  0:000    10. C91A5980: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+78:038  0:000    11. C91A5C98: 'SSDT', 'SaSsdt ', Rev: 1, Len: 14108
+78:038  0:000    12. C91A93B8: 'SSDT', 'SgPeg', Rev: 1, Len: 5218
+78:038  0:000    13. C91AA820: 'DMAR', 'HSW ', Rev: 1, Len: 184
+78:038  0:000    14. C91AA8D8: 'SSDT', 'OptTabl', Rev: 1, Len: 6297
+78:038  0:000    Tables in Rsdt: 15
+78:038  0:000    0. C9194140: 'FACP', 'Notebook', Rev: 2, Len: 132
+78:038  0:000        (Dsdt: C91941C8, Facs: C97FD040)
+78:038  0:000        C91941C8: 'DSDT', 'Notebook', Rev: 2, Len: 65817
+78:038  0:000        C97FD040: 'FACS', Ver: 0, Len: 64
+78:038  0:000    1. C91A43F8: 'APIC', 'Notebook', Rev: 3, Len: 146
+78:038  0:000    2. C91A4490: 'FPDT', 'Notebook', Rev: 1, Len: 68
+78:038  0:000    3. C91A44D8: 'LPIT', 'Notebook', Rev: 1, Len: 92
+78:038  0:000    4. C91A4538: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+78:038  0:000    5. C91A4760: 'SSDT', 'zpodd', Rev: 1, Len: 399
+78:038  0:000    6. C91A48F0: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+78:038  0:000    7. C91A4E30: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+78:038  0:000    8. C91A5908: 'MCFG', 'Notebook', Rev: 1, Len: 60
+78:038  0:000    9. C91A5948: 'HPET', 'Notebook', Rev: 1, Len: 56
+78:038  0:000    10. C91A5980: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+78:038  0:000    11. C91A5C98: 'SSDT', 'SaSsdt ', Rev: 1, Len: 14108
+78:038  0:000    12. C91A93B8: 'SSDT', 'SgPeg', Rev: 1, Len: 5218
+78:038  0:000    13. C91AA820: 'DMAR', 'HSW ', Rev: 1, Len: 184
+78:038  0:000    14. C91AA8D8: 'SSDT', 'OptTabl', Rev: 1, Len: 6297
