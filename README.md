@@ -11,4 +11,4 @@ Laptop Support: http://www.tonymacx86.com/el-capitan-laptop-support/
 
 --
 
-*This project is specifically based on ASUS X450JF + AR9285 WiFi Combo Cards (AR3011) hardware.* **(for Reference-Purpose only)**
+*This project is specifically based on ASUS X450JF + AR9285 WiFi Combo Cards (AR3011) hardware.* **(for Reference-Purpose only!)**
